@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>4. Negative - User failed login when input incorrect username</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>fd139096-b759-4254-ad22-5f4b86ac18d9</testCaseGuid>
+</TestCaseEntity>

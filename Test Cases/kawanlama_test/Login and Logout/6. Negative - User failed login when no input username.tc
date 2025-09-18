@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>6. Negative - User failed login when no input username</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>6301483a-b40b-4d3b-b33b-25c3dd6154d0</testCaseGuid>
+</TestCaseEntity>
