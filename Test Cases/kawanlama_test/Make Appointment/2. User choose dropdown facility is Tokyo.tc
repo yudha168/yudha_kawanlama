@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>2. User choose dropdown facility is Tokyo</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>16981f2b-3dec-415b-b913-4bfd0f52a2ad</testCaseGuid>
+</TestCaseEntity>

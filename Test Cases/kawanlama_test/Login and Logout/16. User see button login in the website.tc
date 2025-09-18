@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>16. User see button login in the website</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>3998b7f8-8794-44df-a395-d5d226eaf6bc</testCaseGuid>
+</TestCaseEntity>

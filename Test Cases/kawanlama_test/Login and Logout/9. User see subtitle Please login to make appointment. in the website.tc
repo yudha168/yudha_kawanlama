@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>9. User see subtitle Please login to make appointment. in the website</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>cd075edb-ee58-4f02-891a-23678d13dde3</testCaseGuid>
+</TestCaseEntity>
